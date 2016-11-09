@@ -1,0 +1,14 @@
+{
+  "name": "deplane",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Eugene Levenetc",
+  "license": "MIT",
+  "dependencies": {
+    "simple-ssh": "^0.9.0"
+  }
+}
